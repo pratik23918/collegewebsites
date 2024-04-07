@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding-top: 9px;
+    padding-left: 10px;
+    padding-bottom: 46px;
+}
+header{
+    display: flex;
+    justify-content: flex-start;
+    gap: 116px;
+    font-size: 35px;
+    background: blanchedalmond;
+    border: 2px solid black;
+    margin-top: 5px;
+}
+
+header img{
+    width: 174px;
+}
+nav{
+    display: flex;
+    justify-content: normal;
+    align-items: center;
+    gap: 129px;
+    font-size: 45px;
+    border: 2px solid black;
+    background: black;
+    cursor: pointer;
+}
+
+section .para{
+    display: flex;
+    color: black;
+    font-size: 30px;
+
+}
+section h2{
+    font-size: 65px;
+}
+
+.about{
+    width: 570px;
+}
